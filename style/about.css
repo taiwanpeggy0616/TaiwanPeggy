@@ -1,5 +1,9 @@
 @charset "utf-8";
 
+.base-flip{
+    flex-direction: row-reverse;
+}
+
 .state {
     margin-left: -1rem;
     margin-right: -1rem;
